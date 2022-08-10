@@ -1,4 +1,3 @@
-      <html>
  <head>
   <meta charset="utf-8" />
   <title>header</title>
@@ -14,5 +13,4 @@
   <footer>
     Copyright Кристина Ветрова
   </footer>
- </body> 
-</html>
+ </body>
