@@ -5,6 +5,7 @@
 	</header>
 <body style="background: url('background.jpg') no-repeat fixed; -webkit-background-size: cover; background-size: cover;">
 <footer>
+<font size="14" color="white" face="Arial">
 		Юридический адрес: 624130 Свердловская обл. г. Новоуральск ул. Комсомольская д. 8 оф. 35<br>
 		Почтовый адрес: 624130 Свердловская обл. г. Новоуральск ул. Дзержинского д. 13 оф. 314<br>
 		<br>
@@ -19,4 +20,5 @@
 		<br>
 		Тел./факс (34370) 2-38-99<br>
 		E-mail obt2006@mail.ru
+		</font>
 	</footer>	
