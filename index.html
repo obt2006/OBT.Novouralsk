@@ -1,10 +1,19 @@
-	<header>
+	
+	
+	<style>
+   .shadowtext {
+    text-shadow: 1px 1px 2px black, 0 0 1em black; /* Параметры тени */
+    color: white; /* Белый цвет текста */
+    font-size: 2em; /* Размер надписи */
+   }
+  </style>
+  <header><font size="4" color="white" face="Arial"><p class="shadowtext">
 		<h1>Организация с ограниченной ответственностью &quot;Организация безопасности труда&quot;</h1>
 		<h3>Директор Козлов Константин Петрович</h3>
-	</header>
+	</header></p></font>
 <body style="background: url('background.jpg') no-repeat fixed; -webkit-background-size: cover; background-size: cover;">
 <footer>
-<font size="14" color="white" face="Arial">
+<font size="3" color="white" face="Arial"><p class="shadowtext">
 		Юридический адрес: 624130 Свердловская обл. г. Новоуральск ул. Комсомольская д. 8 оф. 35<br>
 		Почтовый адрес: 624130 Свердловская обл. г. Новоуральск ул. Дзержинского д. 13 оф. 314<br>
 		<br>
@@ -19,6 +28,6 @@
 		<br>
 		Тел./факс (34370) 2-38-99<br>
 		E-mail obt2006@mail.ru
-		</font>
+		</p></font>
 	</footer>	
 	</body>
